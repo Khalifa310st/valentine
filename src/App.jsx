@@ -16,15 +16,15 @@ export default function Page() {
       "No",
       "Are you sure?",
       "Really sure?",
-      "Think again!",
-      "Last chance!",
+      "Think again babee!",
+      "Last chance miss zahra!",
       "Surely not?",
       "You might regret this!",
       "Give it another thought!",
-      "Are you absolutely certain?",
+      "Are you absolutely certain? Im you husbaaaand lhh",
       "This could be a mistake!",
       "Have a heart!",
-      "Don't be so cold!",
+      "Don't be so cold!shorttyyy",
       "Change of heart?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
@@ -61,7 +61,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Will you share your part of food with me ??
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
